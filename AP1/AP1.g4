@@ -1,4 +1,11 @@
-grammar Exp;
+/*
+    29/03/2018
+    Disciplina: Compliadores - Engenharia da Computacao - Centro de Informatica
+    Resolucao da primeira aula pratica
+    Aluno: Lucas Vinicius da Costa Santana <lvcs@cin.ufpe.br>
+*/
+
+grammar AP1;
 
 s : (cmd ';') + ;
 
